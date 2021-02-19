@@ -2,7 +2,7 @@
 ---
 
 I am a computer engineer and a enthusiast Developer. I like to solve problems and explore new technologies. 
----
+
 ⚡ Tech Stack
 ---
 Here are some ideas to get you started:
