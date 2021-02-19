@@ -1,4 +1,4 @@
-👋 Hi, I am João Belo 👨‍💻
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif /> Hi, I am João Belo 👨‍💻
 ---
 
 I am a computer engineer and a full stack Developer. I like to solve problems and explore new technologies. 
