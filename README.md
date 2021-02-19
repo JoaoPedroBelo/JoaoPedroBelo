@@ -16,5 +16,5 @@ Find me on the web
 
 My Stats 
 ---
-<img align="center" src="github-readme-stats.joaopedrobelo.vercel.app/api/pin/?username=JoaoPedroBelo&repo=github-readme-stats" />
+<img align="center" src="https://github-readme-stats.joaopedrobelo.vercel.app/api/pin/?username=JoaoPedroBelo&repo=github-readme-stats" />
 
