@@ -4,7 +4,7 @@ I am a computer engineer and a full stack Developer. I like to solve problems an
 
 Tech Stack
 ---
-
+<img align= src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img align= src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> 
 React.js /JavaScript /Node.JS /JQuery /Django /Python /.Net /C /C++ /C# /VB /WordPress /Joomla /PHP /HTML5 /CSS /SCSS /LESS /BOOSTRAP /MYSQL /SQLServer /Git /VisualStudio /Azure /AWS /GCloud /Json /Xaml /XML /Ajax /Arduino /Raspberry
 
 Find me on the web
