@@ -1,7 +1,5 @@
 👋 Hi, I am João Belo 👨‍💻
 ---
-<!--
-**JoaoPedroBelo/JoaoPedroBelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a computer engineer and a enthusiast Developer. I like to solve problems and explore new technologies. 
 ---
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
