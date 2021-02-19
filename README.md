@@ -11,7 +11,7 @@ Find me on the web
 ---
 <p><a href="https://www.facebook.com/JoaoPedrovBelo" rel="nofollow"><img src="https://github.com/JoaoPedroBelo/JoaoPedroBelo/blob/main/facebook.png" alt="Facebook" width="30" style="max-width:100%; padding-right:40px;"></a>
 <a href="https://www.instagram.com/joao_belo06/" rel="nofollow"><img src="https://github.com/JoaoPedroBelo/JoaoPedroBelo/blob/main/instagram.png" alt="Instagram" width="30" style="max-width:100%; padding-right:40px;"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-belo-29300a82/" rel="nofollow"><img src="https://github.com/JoaoPedroBelo/JoaoPedroBelo/blob/main/linkedin.png" alt="LinkedIn" width="30" style="max-width:100%; paddingright:40px;"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-belo-29300a82/" rel="nofollow"><img src="https://github.com/JoaoPedroBelo/JoaoPedroBelo/blob/main/linkedin.png" alt="LinkedIn" width="30" style="max-width:100%; padding-right:40px;"></a>
 <a href="https://github.com/joaopedrobelo"><img src="https://github.com/JoaoPedroBelo/JoaoPedroBelo/blob/main/github.png" alt="GitHub" width="30" style="max-width:100%; padding-right:40px;"></a>
 
 My Stats 
