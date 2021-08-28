@@ -16,4 +16,5 @@ Find me on the web
 My Stats 
 ---
 <img align="center" src="https://github-readme-stats.joaopedrobelo.vercel.app/api?username=JoaoPedroBelo&show_icons=true&count_private=true" />
-
+<img align="center" src="https://github-readme-stats.joaopedrobelo.vercel.app/api/top-langs/?username=JoaoPedroBelo&layout=compact&count_private=true" />
+ 
